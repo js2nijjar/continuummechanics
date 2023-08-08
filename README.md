@@ -1,6 +1,6 @@
 # continuummechanics
 
-Elastic Vibrations
+Elastic Vibrations in LaTeX
 
 ![Elastic Vibrations page 1](https://github.com/js2nijjar/continuummechanics/assets/141672092/a842b638-9dc6-45cb-8a09-878e3fe5808d)
 ![Elastic Vibrations page 2](https://github.com/js2nijjar/continuummechanics/assets/141672092/a38d38ef-5a59-4165-93a6-fca805cf8e71)
